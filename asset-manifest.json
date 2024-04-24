@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Eflyer/static/css/main.6f7be7bf.css",
+    "main.js": "/Eflyer/static/js/main.1af0381a.js",
+    "static/media/header.jpg": "/Eflyer/static/media/header.1de50571e68f557d7dd1.jpg",
+    "index.html": "/Eflyer/index.html",
+    "main.6f7be7bf.css.map": "/Eflyer/static/css/main.6f7be7bf.css.map",
+    "main.1af0381a.js.map": "/Eflyer/static/js/main.1af0381a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f7be7bf.css",
+    "static/js/main.1af0381a.js"
+  ]
+}
